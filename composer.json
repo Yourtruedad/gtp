@@ -1,0 +1,7 @@
+{
+    "require": {
+        "monolog/monolog": "^1.17",
+        "theseer/fxsl": "^1.1",
+        "ircmaxell/password-compat": "^1.0"
+    }
+}
